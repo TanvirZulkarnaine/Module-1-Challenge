@@ -3,7 +3,7 @@
 Bootcamp module 1 challenge
 
 # Kickstarting with Excel
-[This is the link to my excel file!](/Module_1_Challenge/Crowdfunding Analysis_Challenge/Kickstarter_Challenge.xlsx)
+[This is the link to my excel file!](/Module_1_Challenge/CrowdfundingAnalysis_Challenge/Kickstarter_Challenge.xlsx)
 ## Overview of Project
 I created two pivot tables and their respective line graphs. First task is to display the "outcomes (successful, failed, or canceled)" based on the launch date (in months) for the parent category "theater" fundraising project. Second task is to display the "outcomes (successful, failed, or canceled)" based on the goal (monetary) made by the project leader.
 ### Purpose
