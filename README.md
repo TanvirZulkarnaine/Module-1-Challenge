@@ -18,12 +18,15 @@ One simple trend that I found is that higher goal implies higher percentage of f
 Again, calculating the percentage distribution was the challenging part for me on this project. 
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-
+    ---
+    ![Theater_Outcomes_vs_Launch](/Module-1-Challenge/Module_1_Challenge/Resource/Theater_Outcomes_vs_Launch.png)
+    ---
     I have noticed that the number of fundraising projects have spiked in numbers during the month of May from the gathered years. Also, Success ratio to failure is also much higher on May compared to the other the months. Thus, it is a good month to start a fundraiser! 
 
     Another point I noticed is that, there are no projects canceled from the beginning of September to end of October. Projects either fail or succeed in this timeframe. Since there is no projects to be canceled, I noticed that there is a somewhat sharp spike in failed projects. Since projects can't be canceled, it is probably not the best month to start your fundraising project unless you come prepared. 
 
     I also noticed that, overall, many projects succeed than fail!
+    
 
 - What can you conclude about the Outcomes based on Goals?
 
