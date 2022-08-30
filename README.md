@@ -1,6 +1,5 @@
 # Module-1-Challenge
 # Name: Tanvir Rahman
-Bootcamp module 1 challenge
 
 # Kickstarting with Excel
 [This is the link to my excel file!](/Module_1_Challenge/Crowdfunding_Analysis_Challenge/Kickstarter_Challenge.xlsx)
